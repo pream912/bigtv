@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310056093070",
+    "firebase_url": "https://live2-3af8b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "live2-3af8b",
+    "storage_bucket": "live2-3af8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310056093070:android:4bd10615de1e271b7110df",
+        "android_client_info": {
+          "package_name": "in.tharainfotech.bigtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310056093070-b39hucbp1jvjaf2u9dp5rc0gr58eb9d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC33QoWU4XguLQLqrgV-xuS2IQa5d1DThA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310056093070-b39hucbp1jvjaf2u9dp5rc0gr58eb9d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stv.iml" filepath="$PROJECT_DIR$/.idea/modules/Stv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stv.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stv.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stv.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stv.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stv.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stv.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stv.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stv.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
